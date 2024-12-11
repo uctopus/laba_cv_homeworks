@@ -11,3 +11,6 @@ __pycache__/
 
 # .env or configuration files (if applicable)
 venv
+
+# datasets
+dataset/
